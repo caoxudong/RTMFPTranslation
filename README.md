@@ -26,7 +26,7 @@ RTMFP Draft: [http://tools.ietf.org/html/draft-thornburgh-adobe-rtmfp-07][1]
 ## translation
 
     MUST             => 必须
-    MUST NOT         => 必须不
+    MUST NOT         => 禁止
     REQUIRED         => 同 *MUST* 
     SHALL            => 同 *MUST*
     SHALL NOT        => 同 *MUST　NOT*
