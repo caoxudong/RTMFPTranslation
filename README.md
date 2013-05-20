@@ -37,7 +37,7 @@ RTMFP Draft: [http://tools.ietf.org/html/draft-thornburgh-adobe-rtmfp-07][1]
     MAY              => 可能会
     OPTIONAL         => 同 *MAY*
 
-# author
+# Author
 
 caoxudong818@gmail.com
 
